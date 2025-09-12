@@ -1,1 +1,2 @@
-This is the description of my repo
+# GitHubCloneProject
+This is the objective of this task: to practice Git branching and resolving merge conflicts.
